@@ -1,0 +1,10 @@
+title: "Jaspreet Rishi reviews"
+author: "Jaspreet Rishi"
+date: "22 March 2021"
+output:
+  html_document: default
+  pdf_document: default
+  word_document: default
+
+Looks great. It's really well organized. I am sorry I don't have any input for you missing data graph. I was not able to load the final graph file diretctly in R but your code in Rmd worked just fine by clicking run all so that's good!
+Good work.
